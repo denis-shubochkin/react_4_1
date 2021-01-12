@@ -1,0 +1,13 @@
+.RGB-Label-Block {
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    padding-top: 5px;
+}
+
